@@ -1,4 +1,4 @@
-# Glance Configuration
+# [Glance](https://github.com/glanceapp/glance) Configuration
 
 ## Prerequisites
 
